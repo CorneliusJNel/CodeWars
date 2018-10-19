@@ -1,0 +1,1 @@
+Mutliply two number inputs.
